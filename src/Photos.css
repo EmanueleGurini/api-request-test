@@ -1,0 +1,12 @@
+.selectData > label {
+   padding: 10px; 
+}
+
+.photoUl {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.photoUl > li {
+    list-style-type: none;
+}
